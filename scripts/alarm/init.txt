@@ -1,0 +1,9 @@
+Salut ${PERSON_NAME}!
+
+L'alarme est enclenchee !
+Bonne journee !
+
+Pour checker la cam : http://quentin.chambefort.fr/cam2/video
+user : public
+mdp : password2OUF 
+
