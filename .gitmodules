@@ -1,0 +1,3 @@
+[submodule "scripts/yeelight-shell-scripts"]
+	path = scripts/yeelight-shell-scripts
+	url = https://github.com/hphde/yeelight-shell-scripts
