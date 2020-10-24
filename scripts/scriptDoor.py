@@ -15,10 +15,10 @@ hallLight = 2
 lightDuration = 20
 
 #les heures d'arrt
-sunriseHour = 8
-sunriseMinute = 30
-sunsetHour = 19
-sunsetMinute = 0
+sunriseHour = 9 
+sunriseMinute = 0
+sunsetHour = 18
+sunsetMinute = 30
 
 my_mutex = Event()
 
